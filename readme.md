@@ -1,12 +1,5 @@
-### Hi there 👋
-
-<picture>
-<source 
-  srcset="https://github-readme-stats.vercel.app/api/?username=brianpeiris&count_private=true&include_all_commits=true&show_icons=true&disable_animations=true&theme=dark"
-  media="(prefers-color-scheme: dark)"
-/>
-<img alt="Brian's GitHub Stats" src="https://github-readme-stats.vercel.app/api/?username=brianpeiris&count_private=true&include_all_commits=true&show_icons=true&disable_animations=true" />
-</picture>
+[![Brian's GitHub stats-Dark](https://github-readme-stats.vercel.app/api/?username=brianpeiris&count_private=true&include_all_commits=true&show_icons=true&disable_animations=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
+[![Brian's GitHub stats-Light](https://github-readme-stats.vercel.app/api/?username=brianpeiris&count_private=true&include_all_commits=true&show_icons=true&disable_animations=true&theme=default#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
 
 <!--
 **brianpeiris/brianpeiris** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
