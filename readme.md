@@ -1,1 +1,1 @@
-[![Brian's GitHub stats](https://github-readme-stats.vercel.app/api/?username=brianpeiris&rank_icon=percentile&count_private=true&include_all_commits=true&show_icons=true&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
+[![Brian's GitHub stats](https://github-readme-stats.vercel.app/api/?username=brianpeiris&rank_icon=percentile&count_private=true&include_all_commits=true&show_icons=true&theme=transparent&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
