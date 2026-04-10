@@ -9,7 +9,7 @@
         aria-labelledby="descId"
       >
         <title id="titleId">Brian Peiris' GitHub Stats, Rank: A+</title>
-        <desc id="descId">Total Stars Earned: 1257, Total Commits  : 55677, Total PRs: 876, Total Issues: 426, Contributed to (last year): 4</desc>
+        <desc id="descId">Total Stars Earned: 1257, Total Commits  : 55656, Total PRs: 876, Total Issues: 426, Contributed to (last year): 4</desc>
         <style>
           .header {
             font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif;
