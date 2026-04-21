@@ -9,7 +9,7 @@
         aria-labelledby="descId"
       >
         <title id="titleId">Brian Peiris' GitHub Stats, Rank: A+</title>
-        <desc id="descId">Total Stars Earned: 1259, Total Commits  : 55658, Total PRs: 876, Total Issues: 426, Contributed to (last year): 4</desc>
+        <desc id="descId">Total Stars Earned: 1258, Total Commits  : 55658, Total PRs: 876, Total Issues: 426, Contributed to (last year): 4</desc>
         <style>
           .header {
             font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif;
@@ -73,7 +73,7 @@
         stroke-dashoffset: 251.32741228718345;
       }
       to {
-        stroke-dashoffset: 9.203647684837076;
+        stroke-dashoffset: 9.206094162296575;
       }
     }
   
